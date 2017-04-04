@@ -1,0 +1,1 @@
+A group or individual Technology page.
