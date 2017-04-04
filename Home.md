@@ -10,4 +10,4 @@ One way to navigate the Encyclopedia is to browse by "working group." There are 
 * Subjectivity
 * Population
 
-You can also browse by [[individual theme|Themes]].
+You can also browse by [[individual topic|Topics]].
