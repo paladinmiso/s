@@ -40,7 +40,9 @@ The other area of influence I wanted to look at was the curated nature of online
 
 The problem for leftists, then, is to resist these effects of melodrama and digital, neoliberal governmentality. That is, there must be a way to combat the ubiquitous presence of the alt-right on the internet, which both contributes to and is influenced by the close relationship between governments and corporations. The opposition to this media power would also contend with the now-empowered neo-Nazi and right-wing factions. Resistance to this movement has so far comprised of compiling “threat assessment documents” that advise other leftist protestors of the danger during their actions. It has also involved a distributed network of people at rallies witnessing and recording violence instigated by both the police and the [neo-Nazis](https://www.youtube.com/watch?v=Q1TzPW411BI&sns=fb). In the future, in order to resist the intricate networks between the government, these alt-right figures and the corporations (who have a lot of power to [censor and allow certain content](http://www.theverge.com/2016/12/20/14022472/facebook-hate-speech-moderation-germany-migrant-refugee)), leftists will have to centralize in some regard. At the very least, there must be a news source like The Rebel, that can react to their content and disseminate our own. The major setback here is the lack of funding and the inability to coordinate. I mention these tactics because any resistance now must work with the same system. The goal here is for resistance to be as omnipresent as the opposition and to engage with authorities in an effective way. This new blend of corporate and political government demands that resistance be just as loud, especially moving forward with the new presidency.
 
-Works Cited 
+
+
+## Works Cited 
 
 _Note: does not include links within the text_
 
