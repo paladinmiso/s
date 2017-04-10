@@ -1,4 +1,3 @@
-NETWORKS
 ## Introduction
 
 As a university student, if you were interested in learning about networks, you might simply open up your laptop and type “networks” into the Google search bar. You would then be presented with the following definitions: 
