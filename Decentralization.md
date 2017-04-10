@@ -46,8 +46,13 @@ What are the effects of decentralization?
 ## References
 
 Deleuze, Gilles. “Postscript on the Societies of Control”. October, vol. 59, 1992, pp. 3-7.
+
 Foucault, Michel. Discipline and Punish: the birth of the prison. Vintage Books, 1995.
+
 Galloway, Alexander. Protocol: how control exists after decentralization. MIT Press, 2004.
+
 Galloway, Alexander R., and Thacker, Eugene. Exploit : A Theory of Networks. University of Minnesota Press, 2007.
+
 Herf, Jeffrey. “The “Jewish War”: Goebbels and the Antisemetic Campaigns of the Nazi Propaganda Ministry”. Holocaust and Genocide Studies, vol. 19, 2005, pp. 51-80.
+
 Schultz, Pit. “The Idea of Nettime.” Nettime, https://nettime.org/Lists-Archives/nettime-l-0606/msg00135.html. Accessed 2 Apr 2017.
