@@ -1,4 +1,4 @@
-## To Start with...A Crisis
+## To Begin with...A Crisis
 September 15<sup>th</sup>, 2008, Monday, is when it all started: American financial services giant Lehman Brothers filed bankruptcy early in the day, sealing a month-long rumor regarding the future of the struggling Wall Street player.<sup>1</sup> The ensuing saga needs no more elaboration: world economy plummeted to a degree unseen since the Great Depression of the 1930s, prompting a series of disasters in the US (e.g. subprime mortgage crisis) and beyond (e.g. European debt crisis) that have yet been fully resolved to this date.<sup>2</sup>
 
 Well, at least, that is the popular version of the story.
