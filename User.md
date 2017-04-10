@@ -100,9 +100,9 @@ Cohen, Kris. “Who We Talk About When We Talk About Users.” _EPIC_, 2005. pp.
 Deleuze, Gilles. “Postscript on the Societies of Control.” MIT Press, 1992.   
 Engelbart, Douglas. “The Mother of All Demos.” _YouTube_. 9 Dec. 1968.    
 Galloway, Alexander R. _Protocol: How Control Exists After Decentralization_. The MIT Press, 2004.   
-Hu, Tung-Hui. _A Prehistory of the Cloud_. Cambridge: The MIT Press, 2015.   
-Lisberger, Steven, dir. Tron. Walt Disney Studios, 1982. _Netflix_. 5 Feb. 2017.
-Sterne, Jonathan. “What if Interactivity is the New Passivity?” _Flow Journal_. 9 Apr. 2012.     
+Hu, Tung-Hui. _A Prehistory of the Cloud_. Cambridge: The MIT Press, 2015.     
+Lisberger, Steven, dir. Tron. Walt Disney Studios, 1982. _Netflix_. 5 Feb. 2017.     
+Sterne, Jonathan. “What if Interactivity is the New Passivity?” _Flow Journal_. 9 Apr. 2012.         
 “Super Mario Bros.” _Mario Wiki_. 5 Feb. 2017. https://www.mariowiki.com/Super_Mario_Bros.#Characters   
 “The Demo.” _Stanford University_. 2005. http://web.stanford.edu/dept/SUL/library/extra4/sloan/MouseSite/1968Demo.html    
 “User.” _Cambridge Dictionary_. 2017. http://dictionary.cambridge.org/dictionary/english/user    
