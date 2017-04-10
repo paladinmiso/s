@@ -42,41 +42,10 @@ If capitalism should be understood, indeed, as Félix Guattari has argued, "as a
 Our enemy has left traces left behind, from which we can discern the strategies, the tricks, and the patterns. It is time for us to come up with a counterattack, and react while we still can.
 
 This Wiki can be the place where we start.
-***
 
 
-### Bibliography
 
 
-Amadeo, Kimberly. “2008 Financial Crisis: Causes, Costs and could it Reoccur?” _The Balance.com_. Last modified March 17, 2017, http://www.thebalance.com/2008-financial-crisis-3305679
-
-Brown, Wendy. _Undoing the Demos: Neoliberalism’s Stealth Revolution_. Brooklyn: Zone Books, 2015.
-
-Foucault, Michel. _The Birth of Biopolitics: Lectures at the Collége de France, 1978-79_, Edited by Michel Senellart. Translated by Graham Burchell. New York: Picador, 2004.
-
-Fukuyama, Francis. "The End of History?" _The National Interest_ no. 4 (1989): 3-18.
-
-Harvey, David. _A Brief History of Neoliberalism_. Oxford: Oxford University Press, 2005.
-
-Huntington, Samuel P. "The Clash of Civilization?" _Foreign Affairs_ 72, no. 3 (1993): 22-49.
-
-Krippner, Greta R. _Capitalizing on Crisis: The Political Origins of the Rise of Finance_. Cambridge: Harvard University Press, 2011.
-
-Lapavitsas, Costas. “Theorizing Financialization.” _Work, Employment and Society_ 25, no. 4 (2011): 611-626.
-
-Lazzarato, Maurizio. _Governing by Debt_. Translated by Joshua David Jordan. South Pasadena: Semiotext(e), 2015.
-
-––. _The Making of the Indebted Man: An Essay on the Neoliberal Condition_. Translated by Joshua David Jordan. Los Angeles: Semiotext(e), 2012.
-
-Marazzi, Christian. _The Violence of Financial Capitalism_. Translated by Kristina Lebedeva and Jason Francis Mc Gimsey. Los Angeles: Semiotext(e), 2011.
-
-Sweezy, Paul M. “More (or Less) on Globalization.” _Monthly Review_ 49, no. 4 (1997): 1-4.
-
-“The Origins of the Financial Crisis: Crash Course.” _The Economist.com_. September 17, 2013, http://www.economist.com/news/schoolsbrief/21584534-effects-financial-crisis-are-still-being-felt-five-years-article.
-
-Vercellone, Carlo. “The Crisis of the Law of Value and the Becoming-Rent of Profit.” In _Crisis in the Global Economy: Financial Markets. Social Struggles, and New Political Scenarios_, edited by Andrea Fumagalli and Sandro Mezzadra, 85-118. Los Angeles: Semiotext(e), 2010.
-
-Wearden, Graeme, David Teather, and Jill Treanor. “Banking Crisis: Lehman Brothers Files for Bankruptcy Protection.” _The Guardian.com_. September 15, 2008. http://www.theguardian.com/business/2008/sep/15/lehmanbrothers.creditcrunch.
 
 ***
 
@@ -126,3 +95,35 @@ Wearden, Graeme, David Teather, and Jill Treanor. “Banking Crisis: Lehman Brot
 42. Francis Fukuyama, "The End of History?" _The National Interest_ no. 16, (1989): 3.
 43. Samuel P. Huntington, "The Clash of Civilization?" _Foreign Affairs_ 72, no.3 (1993): 25.
 ***
+### Bibliography
+
+
+Amadeo, Kimberly. “2008 Financial Crisis: Causes, Costs and could it Reoccur?” _The Balance.com_. Last modified March 17, 2017, http://www.thebalance.com/2008-financial-crisis-3305679
+
+Brown, Wendy. _Undoing the Demos: Neoliberalism’s Stealth Revolution_. Brooklyn: Zone Books, 2015.
+
+Foucault, Michel. _The Birth of Biopolitics: Lectures at the Collége de France, 1978-79_, Edited by Michel Senellart. Translated by Graham Burchell. New York: Picador, 2004.
+
+Fukuyama, Francis. "The End of History?" _The National Interest_ no. 4 (1989): 3-18.
+
+Harvey, David. _A Brief History of Neoliberalism_. Oxford: Oxford University Press, 2005.
+
+Huntington, Samuel P. "The Clash of Civilization?" _Foreign Affairs_ 72, no. 3 (1993): 22-49.
+
+Krippner, Greta R. _Capitalizing on Crisis: The Political Origins of the Rise of Finance_. Cambridge: Harvard University Press, 2011.
+
+Lapavitsas, Costas. “Theorizing Financialization.” _Work, Employment and Society_ 25, no. 4 (2011): 611-626.
+
+Lazzarato, Maurizio. _Governing by Debt_. Translated by Joshua David Jordan. South Pasadena: Semiotext(e), 2015.
+
+––. _The Making of the Indebted Man: An Essay on the Neoliberal Condition_. Translated by Joshua David Jordan. Los Angeles: Semiotext(e), 2012.
+
+Marazzi, Christian. _The Violence of Financial Capitalism_. Translated by Kristina Lebedeva and Jason Francis Mc Gimsey. Los Angeles: Semiotext(e), 2011.
+
+Sweezy, Paul M. “More (or Less) on Globalization.” _Monthly Review_ 49, no. 4 (1997): 1-4.
+
+“The Origins of the Financial Crisis: Crash Course.” _The Economist.com_. September 17, 2013, http://www.economist.com/news/schoolsbrief/21584534-effects-financial-crisis-are-still-being-felt-five-years-article.
+
+Vercellone, Carlo. “The Crisis of the Law of Value and the Becoming-Rent of Profit.” In _Crisis in the Global Economy: Financial Markets. Social Struggles, and New Political Scenarios_, edited by Andrea Fumagalli and Sandro Mezzadra, 85-118. Los Angeles: Semiotext(e), 2010.
+
+Wearden, Graeme, David Teather, and Jill Treanor. “Banking Crisis: Lehman Brothers Files for Bankruptcy Protection.” _The Guardian.com_. September 15, 2008. http://www.theguardian.com/business/2008/sep/15/lehmanbrothers.creditcrunch.
