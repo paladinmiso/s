@@ -74,3 +74,15 @@ According to Galloway, interactivity is one of the core instruments of control a
 >“In the hands of the American military, networks are classified not only as communication tools but as weapons systems, ?while in the hands of antiglobalization activists, networks are mobilized as tools for disruption and evasion. Thus, I mean to point out the differences between different kinds of networks, both in their architectonic shape and in their values and motivations, but also to point out that different network forms might be in conflict with on another…”(Galloway, “Networks” 282).
 
 Networks can also be observed in terms of their capacity for political ramifications, but also political change. More recently, the worldwide women’s marches and anti-Trump protests that have taken place owe their massive turnouts to the networks that facilitated communication and organization between individuals. “This is crucial to one’s present understanding – that networks are often _symbol_s for, or actual embodiments of, real world power and control” (Galloway 282). In the case of the recent protests, networks can also be seen as embodiments of resistance.
+
+
+### Works Cited
+
+Galloway, Alexander R., Eugene Thacker, and McKenzie Wark. _Excommunication:_ three inquiries in media and mediation. Chicago: The U 	of Chicago Press, 2014. Print.
+
+Galloway, Alexander R. "Networks." Hansen, Mark B.N. _Critical Terms for Media Students_. Chicago and London: The University of Chicago Press, 2010.
+
+Galloway, Alexander R. P_rotocol, Or, How Control Exists after Decentralization._ Cambridge, Massachusetts: The MIT Press, 2004. Print.
+
+New York University, NYU Steinhardt. Faculty, Alexander Galloway, Steinhardt School of Culture, Education, and Human Development, 2017. Par. 1.http://steinhardt.nyu.edu/faculty/Alexander_Galloway
+
