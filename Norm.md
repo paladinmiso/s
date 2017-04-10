@@ -46,7 +46,7 @@ In conclusion, and keeping with Warner’s line of thought, if being fully norma
 
 Works Cited
 
-Canguilhem, Georges._ On the Normal and the Pathological_ . Zone Books, 2007.
+Canguilhem, Georges. _On the Normal and the Pathological_. Zone Books, 2007.
 
 Foucault, Michel. _The History of Sexuality: An Introduction, Volume I_. Random House Inc., 1978.
 
