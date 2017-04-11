@@ -27,3 +27,50 @@ Still, I find Foucault’s notions of biopower and biopolitics to be generative 
 
 What Flint illustrates is how the command of state administration on populations absolutely holds stakes in managing one’s life or disallowing it to death. The discourse shared between legislators, media and the residents of Flint throws into relief how administrators were keen on managing the surrounding coverage as much as the situation proper. The crisis makes apparent the effects of ineffective leadership as they are reflected directly in the health of individuals as well as of the population. As Michel Foucault notes in his 1976 lectures, mechanisms of biopolitics, like state-sanctioned illness, “sapped the population’s strength, shortened the working week, wasted energy, and cost money … Death was no longer something that suddenly swooped down on life – as in an epidemic. Death was now something permanent, something that slips into life, perpetually gnaws at it, diminishes it and weakens it” (_Society_ 244). Foucault’s prescient description of the Flint water crisis reveals how biopower and biopolitics indeed inform our current moment, and how its deployment through controlling access to essential goods is, as Ann Laura Stoler puts it, “implicitly raced” (11). Flint’s Congressional Representative Dan Kildee himself admits to _The Huffington Post_ that “[t]here’s a philosophy of government that has been writing these places off — places like Flint get written off … it’s hard for me to accept the fact that race is not the most significant factor” (“The Racist Roots”). Hillary Clinton’s closing remarks at the Democratic primary debate attributed the lacking media coverage and state mobilization over Flint to the city’s high poverty rate and majority African-American population: “if the kids in a rich suburb of Detroit had been drinking contaminated water and being bathed in it, there would've been action” (“How Hillary Clinton”). One _LA Times_ article boasts the headline, “Flint’s toxic water was 50 years in the making,” noting how cities like Flint in America’s Rust Belt were disproportionately affected by poor regulation and corporate interests that targeted undesirable and expendable areas. Thus, housing discrimination and redlining and other politics of racialized geography have produced the conditions for the institutionalization of making live and letting die. 
 	Now, we ask: if biological technologies are so prevalent in our contemporary moment, and if Coates correctly assesses these technologies – environmental racism and the access to essential goods vis-à-vis redlining – as contiguous with a centuries-old history, then state racism is as apparent then as it is palpable now. Coates teaches us that we cannot fully appreciate the task we have ahead of us without acknowledging its heritage. He writes, “[a]n America that looks away is ignoring not just the sins of the past but the sins of the present and the certain sins of the future” (“The Case”). In his essay on reparations, Coates makes mention of Congressional bill _H.R. 40: Commission to Study Reparations Proposals for African-Americans Act_ as a starting point for America to turn towards its history fraught with pain, exploitation and divestment. The bill was introduced in 1989 by Congressman John Conyers Jr., and the fact that the bill has yet to proceed onto the House floor points to a harrowing reality of America’s collective resistance towards the restitutive process. However, as the configurations of biopower and biopolitics in Flint indicate, the urgency for such a process lies in the wake of sick, ailing and dead black bodies managed under the scope of a state administration. In order to begin settling the debt, whether in figures or in policy, it must begin with “America’s maturation out of the childhood myth of its innocence into a wisdom worthy of its founders” (“The Case”).   
+
+
+# Bibliography
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+“Flint’s Toxic Water Crisis Was 50 Years in the Making.” Los Angeles Times 29 Jan. 2016. LA Times. Web. 8 Apr. 2017.
+
+CNN, Jacqueline Gulledge. “Flint Water Crisis Affects Children’s Health.” CNN. N.p., n.d. Web. 8 Apr. 2017.
+
+CNN, Sara Ganim. “Flint Water Crisis Likely Cause of Deadly Legionnaires Outbreak.” CNN. N.p., n.d. Web. 8 Apr. 2017.
+
+Coates, Ta-Nehisi. “The Case for Reparations.” The Atlantic June 2014. The Atlantic. Web. 10 Apr. 2017.
+
+Craven, Julia, and Tyler Tynes. “The Racist Roots Of Flint’s Water Crisis.” Huffington Post 3 Feb. 2016. Huff Post. Web. 8 Apr. 2017.
+
+Foucault, Michel. Society Must Be Defended. http://rebels-library.org/files/foucault_society_must_be_defended.pdf. Web. 28 Mar. 2017. PDF.
+
+Foucault, Michel. The History of Sexuality: Volume 1: An Introduction. New York: Vintage Books, 1990. Print.
+
+Goodnough, Abby, and Scott Atkinson. “A Potent Side Effect to the Flint Water Crisis: Mental Health Problems.” The New York Times 30 Apr. 2016. NYTimes.com. Web. 8 Apr. 2017.
+
+Ross, Janell. “How Hillary Clinton Seized the Political Moment on Flint.” Washington Post. N.p., n.d. Web. 11 Apr. 2017.
+
+Roy, Siddhartha, and Anurag Mantha. "Flint Water Study Updates." Flint Water Study Updates. Virginia Tech University, n.d. Web. 10 Apr. 2017.
+
+Spangler, Todd. “Feds Asked to Extend Obamacare Deadline for Flint.” Detroit Free Press. N.p., n.d. Web. 11 Apr. 2017.
+
+Stoler, Ann Laura. Race and the Education of Desire: Foucault’s History of Sexuality and the Colonial Order of Things.  N.p., n.d. Web. 11 Apr. 2017.
+
+U.S. Census Bureau.“Quick Facts for Flint City, Michigan.” https://www.census.gov/quickfacts/table/PST045216/2629000. Web. 8 Apr. 2017.
+
