@@ -31,9 +31,15 @@ Following the Edward Snowden NSA revelations, the surveillance community became 
 Recently, dossiers shared by Wikileaks served to show that after Snowden, the CIA and NSA had only become more bold in capturing information. The sensational claim has been made that the CIA had identified backdoors in a diverse array of ‘smart’ technologies, without the knowledge of the companies that produced the devices. They had identified security flaws in the devices and made use of hacking tools to exploit them in order to record conversations. Furthermore, those tools were frequently left exposed, found for sale on the dark web. Conceivably, a private citizen could purchase sophisticated hacking tools anonymously over the internet. Those same tools enable the user to cover their tracks, or leave tracks intended to look like other state actors, North Korea, Russia etc.<sup>7</sup> The longer the tendrils of the tools created to surveil and disrupt, the more they inject their way into our ordinary lives. By creating a new gate, requiring new passes, the flow of bodies and capitals can be modulated, made more manageable. 
 
 <sup>1</sup> https://www.thestar.com/news/crime/2013/07/28/man_dies_in_street_showdown_with_police.html
+
 <sup>2</sup> http://www.torontopolice.on.ca/community/tps_response_to_edp.pdf
+
 <sup>3</sup> http://www.chicagotribune.com/news/opinion/commentary/ct-texas-cop-black-girl-pool-party-mckinney-20150610-story.html
+
 <sup>4</sup> https://genius.com/Gilles-deleuze-postscript-on-the-societies-of-control-annotated
+
 <sup>5</sup> http://journals2.scholarsportal.info.myaccess.library.utoronto.ca/pdf/14777487/v12i0001/3_eppussaotm2r.xml
+
 <sup>6</sup> http://www.slate.com/blogs/future_tense/2017/03/08/wikileaks_says_the_cia_can_bypass_signal_what_does_that_mean.html
+
 <sup>7</sup> http://www.wired.co.uk/article/cia-files-wikileaks-vault-7
