@@ -48,6 +48,9 @@ The embrace of pleasure, I conclude, has the potential of enabling us to form id
 ## Work Cited
 
 Foucault, Michel. The History of Sexuality. New York: Vintage, 1980. Print.
+
 Foucault, Michel, and Robert Hurley. The Use of Pleasure. London: Penguin, 1992. Print.
+
 Shotwell, Alexis. "Ethical Polyamory, Responsibility, and Significant Otherness."Desire, Love, and Identity: A Textbook for the Philosophy of Sex and Love (2016): 1-9. Web.
+
 Jacobsen , Rockney . 1993 “ Arousal and the Ends of Desire .” Philosophy and Phenomenological Research 53 ( 3 ): 1 – 10
