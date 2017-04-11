@@ -38,5 +38,6 @@ As we increase in layers of technological abstraction do we allow for the exposi
 ## Works Cited
 
 Hu, Tung-Hui. _A Prehistory of the Cloud_. Cambridge, MA: The MIT Press, 2016.
+
 Massumi, Brian. Parables for the Virtual. Durham, NC: Duke U Press, 2002.
 
