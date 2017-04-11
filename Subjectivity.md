@@ -1,3 +1,5 @@
+* Subjectivity (Topic)
+
 * [Identity](https://github.com/kredati/control-encyclopedia/wiki/Identity)
 
 * [Race/Blackness](https://github.com/kredati/control-encyclopedia/wiki/Race)
