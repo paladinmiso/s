@@ -43,11 +43,7 @@ It is perhaps less interesting to enumerate the ways pornography appears in the 
 
 With this analysis of Doestoevsky’s style Bakhtin, ties confession not to the power of the silent auditor of confession, but rather to the necessary definition of the self through the other. Here confession is not a mechanism of control but a necessary exploration of the self. Like the individual who gazes at the screen, drawing pleasure from the identification with the porn stars (or amateurs), from the pulse and proximity of virtual bodies, from the sounds of bodies exerting themselves, from the wetness of the screen or the HD eyes glaring directly through the fourth wall in anticipation, the exploration of ars erotica within pornography allows for a mediation of self, impossible without the presence (real or virtual) of the other. There is no doubt that forms of confession not necessarily associated with sexuality, continue to be a mechanism of power exercised over individuals. Certainly, sexuality too continues to be dictated by scientia sexualis in many capacities, but the overwhelming presence of ars erotica in western society, has loosened the grip that scientia sexualis and confession play in controlling individuals. Ars erotica and its most prominent form, pornography, can engender new forms of confession and mediation of sexuality and pleasure.
 
-
-
-                                                   ## Works Cited
-
-
+## Works Cited
 
 “BOLD - Violence Against Women on the Internet -.” BOLD - Violence Against Women on the Internet -, cyber.harvard.edu/vaw02/mod2-3.htm. Accessed 10 Apr. 2017.
 
