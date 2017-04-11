@@ -38,8 +38,8 @@ Recently, dossiers shared by Wikileaks served to show that after Snowden, the CI
 
 <sup>4</sup> https://genius.com/Gilles-deleuze-postscript-on-the-societies-of-control-annotated
 
-<sup>5</sup> http://journals2.scholarsportal.info.myaccess.library.utoronto.ca/pdf/14777487/v12i0001/3_eppussaotm2r.xml
+<sup>5</sup>http://journals2.scholarsportal.info.myaccess.library.utoronto.ca/pdf/14777487/v12i0001/3_eppussaotm2r.xml
 
-<sup>6</sup> http://www.slate.com/blogs/future_tense/2017/03/08/wikileaks_says_the_cia_can_bypass_signal_what_does_that_mean.html
+<sup>6</sup>http://www.slate.com/blogs/future_tense/2017/03/08/wikileaks_says_the_cia_can_bypass_signal_what_does_that_mean.html
 
 <sup>7</sup> http://www.wired.co.uk/article/cia-files-wikileaks-vault-7
