@@ -38,11 +38,15 @@ Foucault's work is nothing short of canonical in queer discourse – however, th
 
 Foucault's idea that unintelligibility can be a form of resistance works well in theory, but when it comes to living this out in reality, there are a number of issues he is blind to. The problem with unintelligibility is that in some cases, it can invite violence. This is where intersectionality needs to be taken into account. Foucault assumes the prototype of queerness to be the gay (white) male. He does not discuss female homosexuality, or the implications of one's race or gender identity. One's ability to live out a radical mode of life hinges on privilege; gay white men are naturally more privileged than trans women of colour, for example. Therefore, since Foucault only addresses queerness in the instance of gay male sexuality, there is a gaping hole in his framework. To have your identity acknowledged by institutions of power is also to have your identity protected, to some degree, by those institutions. Therefore, the importance of rendering oneself intelligible and normative varies depending on how marginalized one's body is. For some people, living out non-normative modes of life can have grave consequences. For example, if a person of colour in small town Ontario were to live her life as openly queer, she would likely experience more prejudice (and perhaps even violence) than if she were white. Thus, since Foucault's idea of the queer mode of life does not take factors such as race, class, and gender into account, this makes his theory difficult to project onto reality.
 
-Despite these blind spots, Foucault's notion of queerness contains ample possibility. For me personally, as I have described, queerness liberates me from feeling that I should tie myself down to a label. 
+Despite these blind spots, Foucault's notion of queerness contains ample possibility. For me personally, as I have described, queerness liberates me from feeling that I should tie myself down to a label. Furthermore, I feel especially inspired by the idea of ascesis - personal growth is imperative to my well being, especially with regard to my sexuality.
+
 
 Works Cited:
 
 Foucault, Michel. "Friendship as a Way of Life."_The Gay Interviews_. 1981.
+
 Foucault, Michel. _The History of Sexuality_. New York: Vintage, 1980. Print.
+
 Foucault, Michel. "Sex, Power, and the Politics of Identity." _The Gay Interviews_. 1982.
+
 Foucault, Michel. "Sexual Choice, Sexual Act." _The Gay Interviews_. 1982.
