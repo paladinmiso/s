@@ -42,3 +42,13 @@ Furthermore, Bersani sarcastically comments how mainstream media, also public di
 
 ## Conclusion
 To return to my initial question, is there a concrete definition of sexuality? This entry attempts to provide an answer. Foucault’s history of sexuality traces its emergence as something deployed through the power structures involved in the history of discourse. He focuses on the subjective telling of one’s truth and sex. Davidson, on the other hand, focuses on how sexuality emerged when the 19th century became obsessed with perversion. One commonality between both accounts is the emphasis on discourse having a strong impact on the concept of sexuality. Upon comparison to contemporary texts by Berlant & Warner and Bersani, certain concepts of sexuality resurface from Foucault and Davidson’s accounts. While this essay may not have provided a concrete definition of sexuality, my hope in this essay is to outline some ways to understand it. 
+
+Works Cited:
+
+Foucault, Michel. _The History of Sexuality_. New York: Vintage, 1980. Print.
+
+Davidson, Arnold. _The Emergence of Sexuality_. Cambridge: Harvard University Press, 2001. Print.
+
+Berlant, Lauren and Warner, Steve. "Sex in Public." _Publics and Counterpublics_. 1958.
+
+Bersani, Leo. "Is the Rectum a Grave?" _October_. 1987. Print.
