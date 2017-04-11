@@ -1,7 +1,7 @@
 by: K. Mina
 
 ## Case Study:
-![Target](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Target_sign_large.JPG/800px-Target_sign_large.JPG) by: [Mjs92984](https://commons.wikimedia.org/wiki/File:Target_sign_large.JPG)
+![Target](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Target_sign_large.JPG/800px-Target_sign_large.JPG) [picture source](https://commons.wikimedia.org/wiki/File:Target_sign_large.JPG)
 
 It must have been a drab day for a Target employee until an angry father confronted them while holding a leaflet of baby coupons. In rage the father had asked why his teenage daughter received discounts for baby clothes and cribs in the mail, and in doing so, asked if Target was encouraging her to get pregnant. The manager at the branch, despite being confused, apologized to the dismayed shopper. To apologize once more, the manager called the father, but received an apology from the him instead – “I had a talk with my daughter, it turns out there’s been some activities in my house I haven’t been complete aware of. She’s due in August.” This conversation happened in February of 2012, and the story has gained popularity through various social media platforms, with the [article](http://www.nytimes.com/2012/02/19/magazine/shopping-habits.html) being viewed over 4 million times. The story sheds a light as to how corporations have access to their consumer’s lives, and are readily exploiting this knowledge. Such a fact is even more rampant and prevalent today, with the rise of social media sites such as Facebook, eagerly collecting user information to tailor advertisements to each user.
 
