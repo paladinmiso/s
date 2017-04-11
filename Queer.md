@@ -41,7 +41,8 @@ Foucault's idea that unintelligibility can be a form of resistance works well in
 Despite these blind spots, Foucault's notion of queerness contains ample possibility. For me personally, as I have described, queerness liberates me from feeling that I should tie myself down to a label. 
 
 Works Cited:
+
 Foucault, Michel. "Friendship as a Way of Life."_The Gay Interviews_. 1981.
-Foucault, Michel. _The History of Sexuality_. New York: Vintage, 1980. Print
+Foucault, Michel. _The History of Sexuality_. New York: Vintage, 1980. Print.
 Foucault, Michel. "Sex, Power, and the Politics of Identity." _The Gay Interviews_. 1982.
 Foucault, Michel. "Sexual Choice, Sexual Act." _The Gay Interviews_. 1982.
