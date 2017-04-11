@@ -47,5 +47,18 @@ Citizens, then, from the practice of rendering oneself available for labour, fro
 —
 
 “It may begin like this: there would be the sight, on a floor in one of these sinister glass hives of the service sector, this interminable scene, through panopticized space, of dozens of settled bodies, all in a row, arranged according to modular logic, dozens of apparently lifeless bodies, separated by thin glass walls, tapping away on their computers. Within the scene would in turn come the revelation of the brutally political character of this frantic immobilization of bodies. And the obvious paradox of bodies growing stiller the more their mental functions are activated, captivated, mobilized, the more their mental functions seethe, responding in real time to the fluctuations of the information flow streaming across the screen. Let us take this scene or rather what we find there and bring it with us…”
-	(Tiqqun, 139.) 
+	(Tiqqun, 2011, 139.) 
+
+Works Cited/Texts Used 
+
+Debord, Guy. _Society of the Spectacle._ Translated by Donald Nicholson-Smith. Zone Books, 1994. 
+Precarias a la Deriva, “First Stutterings of ‘Precarias a la Deriva.'” Web. 
+Tiqqun, _Introduction to Civil War._ Translated by Alexander R. Galloway and Jason E. Smith. Semiotext(e), 2010.
+Tiqqun, "Sonogram of a Potential." Unknown translator. [I hear it's from _Tiqqun 2_. No official translation.] Web.  
+Tiqqun, _This is Not a Program._ Translated by Joshua David Jordan. Semiotext(e), 2011.
+Wark, McKenzie. _A Hacker Manifesto._ Harvard University Press, 2004. 
+
+ 
+ 
+
 	 
