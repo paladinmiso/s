@@ -1,3 +1,5 @@
+@spillthetiff
+
 ## Confession
 
 I faked orgasms for two years. The first time I had sex, it felt magical. It felt like practicing the lesbian identity I had long come to associate myself with. It felt like I was watching myself the way I used to watch the L Word. in my mind I was screaming, “this is magical!” Except, the magic didn’t quite happen. So I faked it. I didn’t know what pleasure was and I didn’t know how it should play into my identity. Am I gay because I like women sexually? If so, why was I not finding sex with them pleasurable? If it was about connection and chemistry, how was it sexual? My confusion went on, and I just went with it. Not embracing it, but I had gotten quite good at faking it, so I continued to fake it with the hope that one day I would make it. 
