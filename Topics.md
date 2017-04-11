@@ -9,5 +9,6 @@ Here is a list of all the topics in the wiki:
 * [[Norm]]
 * [[Population (term)]]
 * [[Privacy]]
+* [[Race]]
 * [[User]]
 * [[Virtual(ization)]]
